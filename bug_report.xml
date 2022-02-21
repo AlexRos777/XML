@@ -1,27 +1,19 @@
 <BUG_R>
   <Name>Issue_discription</Name>
   <Name>Payment_for_the_selected_product_not_accepted_by_using_MasterCard</Name>
-  </BUG_R>
-<BUG_R>
+  
     <Name>Steps_to_reproduce_the_issue</Name>
     <Name>-Enter_internet_shop_URL:www.shop24@all.com</Name> 
     <Name>-Choose_a_product</Name>
     <Name>-Add_product_to_the_cart</Name>
     <Name>-Choose_your_payment_method</Name>
-</BUG_R>
-
-<BUG_R>
+    
     <Name>What's_the_expected_result?</Name>
     <Name>-Payment_approved,purchase_completed</Name>
-</BUG_R>
 
-<BUG_R>
     <Name>What's_the_actual_result?</Name>
     <Name>-Payment_by_MasterCard_does_not_accept_by_payment_system</Name>
-</BUG_R>
 
-<BUG_R>
     <Name>Additional_details</Name>
     <Name>-All_other_payment_method_is_accepted_by_payment_system</Name>
 </BUG_R>
-
