@@ -1,17 +1,14 @@
 <SKILLS>
-<Hard_skills>
-  <Name>GitBash</Name>
-  <Name>Structure_JSON</Name>
-  <Name>Structure_XML</Name>
-  <Name>Codes_HTTP</Name>
-  <Name>Postman</Name>
-  <Name>DevTools</Name>
-  </Hard_skills>
+<Name>Hard_skills</Name>
+  <Name>-GitBash</Name>
+    <Name>-Structure_JSON</Name>
+    <Name>-Structure_XML</Name>
+  <Name>-Codes_HTTP</Name>
+  <Name>-Postman</Name>
+  <Name>-DevTools</Name>
+  
+  <Name>Soft_skills</Name>
+    <Name>-Self_learning</Name>
+        <Name>-Search_in_Google</Name>
+    <Name>-Teamwork</Name>
 </SKILLS>
-<SKILLS>
-<Soft_skills>
-    <Name>Self_learning</Name>
-        <Name>Search_in_Google</Name>
-        <Name>Teamwork</Name>
-        </Soft_skills>
-        </SKILLS>
